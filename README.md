@@ -103,7 +103,7 @@ $ docker-compose up
 
 et voilà l'application web flask lancé avec Docker:
 
-![Project Image](running docker compose.png)
+![Compose image](running docker compose.png)
 
 [Back To The Top](#read-me-template)
 
