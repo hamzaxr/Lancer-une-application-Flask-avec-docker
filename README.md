@@ -105,6 +105,9 @@ et voilà l'application web flask lancé avec Docker:
 
 ![Compose image](running-docker.png)
 
+
+Entrez http://localhost: 5000 / dans un navigateur pour voir l’application en cours d’exécution.
+
 [Back To The Top](#read-me-template)
 
 ---
