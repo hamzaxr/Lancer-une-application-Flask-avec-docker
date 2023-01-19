@@ -60,8 +60,7 @@ if __name__ == '__main__':
 3. Créez un autre fichier appelé requirements.txtdans le répertoire: 
 
 ```py
-flask
-redis
+Flask
 ```
 ### Étape 2: Créez un Dockerfile:
 
