@@ -44,7 +44,7 @@ Définissez les dépendances de l’application.
 $ mkdir flaskapp
 $ cd flaskapp
 ```
-2. Créez un fichier appelé app.py dans le répertoire de votre projet avec ce code:
+2. Créez un fichier appelé main.py dans le répertoire de votre projet avec ce code:
 
 ```py
 from flask import Flask
