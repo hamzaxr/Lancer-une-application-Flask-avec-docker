@@ -2,7 +2,7 @@
 
 ![Project Image](flask-docker.png)
 
-> Cela est un déscriptif des étapes qu'on élaboré pour déployer l'application.
+> Cela est un descriptif des étapes qu'on a élaboré pour déployer l'application.
 
 ---
 
@@ -57,7 +57,7 @@ def hello_world():
 if __name__ == '__main__':
 	app.run(host="0.0.0.0", debug=True)
 ```
-3. Créez un autre fichier appelé requirements.txtdans le répertoire: 
+3. Créez un autre fichier appelé requirements.txt dans le répertoire: 
 
 ```py
 Flask
