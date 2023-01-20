@@ -94,7 +94,7 @@ L'app utilise une image crée à partir de Dockerfile dans le répertoire actuel
 
 ### Étape 4: Créer et exécuter l'application avec Docker-Compose :
 
-Depuis le répertoire de projet, et sur le terminal et démarre l'application en exécutant:
+Depuis le répertoire de projet, et sur le terminal on démarre l'application en exécutant:
 
 ```py
 $ docker-compose up
